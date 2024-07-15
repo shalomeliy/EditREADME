@@ -28,5 +28,5 @@ _method2_
 
 #### For GIF's
 
-<src="https://media2.giphy.com/media/6xyaC7zGpGCaCRcbYw/200w.webp">
-<div class="tenor-gif-embed" data-postid="23320558" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/ricardo-barreto-veras-ricardo-barreto-ricardo-barreto-veras-gif-23320558">Ricardo Barreto GIF</a>from <a href="https://tenor.com/search/ricardo-gifs">Ricardo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![alt_text]("https://media.tenor.com/eFt5IXNkP-UAAAAM/you-think-i-dont-know-math-math.gif")
+
