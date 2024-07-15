@@ -55,6 +55,7 @@ This code imports the necessary functions from `app.py`, welcomes the user by na
 Prepare a compressed zip file containing the following files:
 - `main.py`
 - `app.py`
+
 Ensure the files are organized and structured appropriately within the zip archive.
 
 Congratulations! You've completed the first level of World of Games. Take pride in your progress and get ready to delve deeper into the exciting world of coding and game development. Remember to reach out if you encounter any challenges or need further assistance. Best of luck on your World of Games journey!
