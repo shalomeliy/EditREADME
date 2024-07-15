@@ -62,6 +62,8 @@ Congratulations! You've completed the first level of World of Games. Take pride 
 
 
 
+
+
 ## Level 2: Game Modules
 
 ### Guess Game – `guess_game.py`
@@ -77,9 +79,17 @@ The Guess Game module is designed to initiate a new game by generating a random 
 
 
 
+
+
+
+
 ### Memory Game – `memory_game.py`
 The Memory Game module challenges players to remember a sequence of numbers that appear briefly on the screen and then input them correctly.
 ![Memory Game](https://i.ytimg.com/vi/vfnyXiKZftc/maxresdefault.jpg)
+
+
+
+
 
 
 
@@ -90,6 +100,9 @@ The Currency Roulette Game module utilizes a free currency API to retrieve the c
 
 #### Functions
 - **`get_money_interval`**: Retrieves the current USD to ILS exchange rate and calculates an interval for the correct answer based on the game's difficulty level.
+
+
+
 
 
 
