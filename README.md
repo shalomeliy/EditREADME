@@ -9,6 +9,6 @@ __method__
 _method2_
 *method3*
 ### list of bullets
-* Boolet 1
-* Boolet 2
-* Boolet 3
+* Bulet 1
+* Bulet 2
+* Bulet 3
