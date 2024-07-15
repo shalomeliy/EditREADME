@@ -28,4 +28,4 @@ _method2_
 
 #### For GIF's
 
-<gif src="<iframe src="https://giphy.com/embed/13CoXDiaCcCoyk" width="480" height="398" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wiggle-shaq-13CoXDiaCcCoyk">via GIPHY</a></p>">
+<gif src="<iframe src="https://giphy.com/embed/13CoXDiaCcCoyk"></p>">
