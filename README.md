@@ -3,8 +3,4 @@
 #### HEADLINE 3
 ###### HEADLINE 4
 ######## HEADLINE 5
-########## HEADLINE 6
-############ HEADLINE 7
-############## HEADLINE 8
-################ HEADLINE 9
-################## HEADLINE 10
+
