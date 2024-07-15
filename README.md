@@ -66,6 +66,7 @@ Congratulations! You've completed the first level of World of Games. Take pride 
 
 ### Guess Game – `guess_game.py`
 ![Guess Game](https://t4.ftcdn.net/jpg/05/28/90/61/360_F_528906125_hIJGjopyvcymzICiHiwL1ne4kuMezhQn.jpg)
+
 The Guess Game module is designed to initiate a new game by generating a random number within a specified range of 0 to a variable named difficulty. The game involves receiving a number input from the player based on the provided properties.
 
 #### Functions
@@ -84,6 +85,7 @@ The Memory Game module challenges players to remember a sequence of numbers that
 
 ### Currency Roulette Game – `currency_roulette_game.py`
 ![Currency Roulette Game](https://media.tenor.com/eFt5IXNkP-UAAAAM/you-think-i-dont-know-math-math.gif)
+
 The Currency Roulette Game module utilizes a free currency API to retrieve the current exchange rate from USD to ILS (Israeli Shekel). Players are tasked with guessing the value of a newly generated random number (between 1 to 100) in USD converted to ILS. The accuracy of their guess depends on the game's difficulty level.
 
 #### Functions
