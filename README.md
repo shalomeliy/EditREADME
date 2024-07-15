@@ -18,7 +18,7 @@ World of Games: The Epic Journey is a Python-based project that offers a variety
 
 ## Installation
 
-To get started with the World of Games, follow the installation instructions provided in the [installation docs](docs/installation.md).
+To get started with the World of Games, follow the installation instructions provided in the ~[installation docs](docs/installation.md)~  
 
 ## Level 1: Getting Started
 
