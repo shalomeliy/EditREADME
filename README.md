@@ -1,5 +1,3 @@
-Here's the `README.md` file with the specified formatting and additional media elements:
-
 ```markdown
 # World of Games: The Epic Journey
 
@@ -7,17 +5,14 @@ Here's the `README.md` file with the specified formatting and additional media e
 **Title: DEVOPS**
 
 ## Overview
-
 World of Games: The Epic Journey is a Python-based project that offers a variety of fun and engaging games. The project is designed to help users learn Python through interactive gameplay. The games included are a Memory Game, Guess Game, and Currency Roulette. This project is useful for anyone looking to practice Python programming, especially in a game development context.
 
 ## Project Requirements
-
 - Python 3.x
 - Flask (for serving scores)
 - Requests (for Currency Roulette Game API)
 
 ## Installation
-
 To get started with the World of Games, follow the installation instructions provided in the ~[installation docs](docs/installation.md)~  
 
 ## Level 1: Getting Started
