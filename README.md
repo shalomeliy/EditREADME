@@ -39,8 +39,8 @@ Please choose a game to play:
 1. Memory Game - a sequence of numbers will appear for 1 second and you have to guess it back.
 2. Guess Game - guess a number and see if you chose like the computer.
 3. Currency Roulette - try and guess the value of a random amount of USD in ILS
-```
-\
+```\
+
 The user will select a game by entering the corresponding number. After choosing a game, the function will prompt the user to select a difficulty level between 1 and 5.
 
 ### Implement the Main Execution in `main.py`
@@ -58,7 +58,7 @@ Prepare a compressed zip file containing the following files:
 
 Ensure the files are organized and structured appropriately within the zip archive.
 
-Congratulations! You've completed the first level of World of Games. Take pride in your progress and get ready to delve deeper into the exciting world of coding and game development. Remember to reach out if you encounter any challenges or need further assistance. Best of luck on your World of Games journey!
+Congratulations! You've completed the first level of World of Games. Take pride in your progress and get ready to delve deeper into the exciting world of coding and game development. Remember to reach out if you encounter any challenges or need further assistance. Best of luck on your World of Games journey!\
 \
 \
 \
@@ -75,7 +75,7 @@ The Guess Game module is designed to initiate a new game by generating a random 
 - **`generate_number`**: Generates a random number between 0 and the specified difficulty, saving it as the secret_number.
 - **`get_guess_from_user`**: Prompts the user to input a number within the range of 0 to the difficulty and returns the entered number.
 - **`compare_results`**: Compares the generated secret number with the user's input and determines if they match.
-- **`play`**: Initiates the game by calling the functions above and returns True if the user wins, and False if the user loses.
+- **`play`**: Initiates the game by calling the functions above and returns True if the user wins, and False if the user loses.\
 \
 \
 \
@@ -83,7 +83,7 @@ The Guess Game module is designed to initiate a new game by generating a random 
 \
 ### Memory Game – `memory_game.py`
 The Memory Game module challenges players to remember a sequence of numbers that appear briefly on the screen and then input them correctly.
-![Memory Game](https://i.ytimg.com/vi/vfnyXiKZftc/maxresdefault.jpg)
+![Memory Game](https://i.ytimg.com/vi/vfnyXiKZftc/maxresdefault.jpg)\
 \
 \
 \
@@ -95,7 +95,7 @@ The Memory Game module challenges players to remember a sequence of numbers that
 The Currency Roulette Game module utilizes a free currency API to retrieve the current exchange rate from USD to ILS (Israeli Shekel). Players are tasked with guessing the value of a newly generated random number (between 1 to 100) in USD converted to ILS. The accuracy of their guess depends on the game's difficulty level.
 
 #### Functions
-- **`get_money_interval`**: Retrieves the current USD to ILS exchange rate and calculates an interval for the correct answer based on the game's difficulty level.
+- **`get_money_interval`**: Retrieves the current USD to ILS exchange rate and calculates an interval for the correct answer based on the game's difficulty level.\
 \
 \
 \
