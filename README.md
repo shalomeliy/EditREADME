@@ -3,7 +3,7 @@
 
 **Author: Shalom Eliyahu**  
 **Title: DEVOPS**
-
+\
 ## Overview
 World of Games: The Epic Journey is a Python-based project that offers a variety of fun and engaging games. The project is designed to help users learn Python through interactive gameplay. The games included are a Memory Game, Guess Game, and Currency Roulette. This project is useful for anyone looking to practice Python programming, especially in a game development context.
 
@@ -20,7 +20,7 @@ Welcome to the World of Games: The Epic Journey! This guide will walk you throug
 
 ### Create a New Python Program: wog
 Begin by creating a new Python program named wog. This program will serve as the foundation for your World of Games project.
-
+\
 ### Develop Functions in `app.py`
 In your `app.py` file, you will define two functions: `welcome()` and `start_play()`.
 
@@ -40,7 +40,7 @@ Please choose a game to play:
 2. Guess Game - guess a number and see if you chose like the computer.
 3. Currency Roulette - try and guess the value of a random amount of USD in ILS
 ```
-
+\
 The user will select a game by entering the corresponding number. After choosing a game, the function will prompt the user to select a difficulty level between 1 and 5.
 
 ### Implement the Main Execution in `main.py`
@@ -59,11 +59,11 @@ Prepare a compressed zip file containing the following files:
 Ensure the files are organized and structured appropriately within the zip archive.
 
 Congratulations! You've completed the first level of World of Games. Take pride in your progress and get ready to delve deeper into the exciting world of coding and game development. Remember to reach out if you encounter any challenges or need further assistance. Best of luck on your World of Games journey!
-
-
-
-
-
+\
+\
+\
+\
+\
 ## Level 2: Game Modules
 
 ### Guess Game – `guess_game.py`
@@ -76,23 +76,23 @@ The Guess Game module is designed to initiate a new game by generating a random 
 - **`get_guess_from_user`**: Prompts the user to input a number within the range of 0 to the difficulty and returns the entered number.
 - **`compare_results`**: Compares the generated secret number with the user's input and determines if they match.
 - **`play`**: Initiates the game by calling the functions above and returns True if the user wins, and False if the user loses.
-
-
-
-
-
-
-
+\
+\
+\
+\
+\
+\  
+\
 ### Memory Game – `memory_game.py`
 The Memory Game module challenges players to remember a sequence of numbers that appear briefly on the screen and then input them correctly.
 ![Memory Game](https://i.ytimg.com/vi/vfnyXiKZftc/maxresdefault.jpg)
-
-
-
-
-
-
-
+\
+\
+\
+\
+\
+\
+\
 ### Currency Roulette Game – `currency_roulette_game.py`
 ![Currency Roulette Game](https://media.tenor.com/eFt5IXNkP-UAAAAM/you-think-i-dont-know-math-math.gif)
 
@@ -100,13 +100,13 @@ The Currency Roulette Game module utilizes a free currency API to retrieve the c
 
 #### Functions
 - **`get_money_interval`**: Retrieves the current USD to ILS exchange rate and calculates an interval for the correct answer based on the game's difficulty level.
-
-
-
-
-
-
-
+\
+\
+\
+\
+\
+\
+\
 ## Level 3: Score Modules
 
 ### Utils file – `utils.py`
